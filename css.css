@@ -1,0 +1,21 @@
+body{
+    background-color: white;
+    text-align: center;
+}
+header{
+    border: solid 2px;
+    width: 550px;
+    height: auto;
+    margin-left:  auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+.headline{
+    border: solid 2px;
+    width: 350px;
+    height: auto;
+    margin-left:  auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    
+}
